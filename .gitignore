@@ -1,6 +1,8 @@
 check
+*.o
 *.a
 *.so
+*.sto
 *.dll
 *.lib
 *.solib
