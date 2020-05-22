@@ -1,0 +1,6 @@
+check
+*.a
+*.so
+*.dll
+*.lib
+*.solib
